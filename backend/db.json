@@ -1,0 +1,942 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "email": "user@example.com",
+        "password": "hashedPassword"
+      }
+    ],
+    "Hand Sanitizers": [
+      {
+        "name": "Bright Rose",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_brightrose_grey-background.jpg?v=1693478149&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_Bright_Rose.jpg?v=1693478149&width=360"
+      },
+      {
+        "name": "Healing Chrysants",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_chrysants_grey-background_bacc0b5a-893c-4609-9814-dbcee95e9c4a.jpg?v=1693478220&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_pocket_Healing_ChrysantsOK.jpg?v=1693478220&width=360"
+      },
+      {
+        "name": "Margarita Spirit",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_Margarita_grey-background.jpg?v=1693478415&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_pocket_Soothing_Lavender.jpg?v=1693478355&width=360"
+      },
+      {
+        "name": "Citrus Noon",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_Citrus_grey-background_c63d83e1-ae48-4c70-84a7-2b7613aa4ba0.jpg?v=1693478250&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/0003__CS_7717_77171333.jpg?v=1693478250&width=360"
+      },
+      {
+        "name": "Dew of Dawn",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_DeyOfDown_grey-background.jpg?v=1693478287&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/0017__CS_7248_72481318.jpg?v=1693478287&width=360"
+      },
+      {
+        "name": "Soothing Lavender",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_Lavanda_grey-background_49f8cd18-6548-4a22-825c-81859d683bea.jpg?v=1693478355&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_pocket_Soothing_Lavender.jpg?v=1693478355&width=360"
+      },
+      {
+        "name": "Morning Glory",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_MorningGlory_grey-background_7da13cdd-a8a8-475b-ab72-a23228c3e257.jpg?v=1693478469&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/0016__CS_7275_72751320.jpg?v=1693478469&width=360"
+      },
+      {
+        "name": "Forest Grace",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/Pocket_SA_MF_ForestGrace.jpg?v=1678356444&width=360",
+        "hoverImage": "https://haanready.com/cdn/shop/products/0017__CS_7248_72481318.jpg?v=1693478287&width=360"
+      },
+      {
+        "name": "Tranquil Camomile",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_Camomille_grey-background_6d6bbf3a-123a-4044-b48e-9bc4374f9c6e.jpg?v=1693478183&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_pocket_Tranquil_Camomile.jpg?v=1693478183&width=360"
+      },
+      {
+        "name": "Tales of Lotus",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/Pocket_SA_MF_TalesLotus_1.jpg?v=1678356415&width=360",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_Bright_Rose.jpg?v=1693478149&width=360"
+      },
+      {
+        "name": "Wild Orchid",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/Pocket_SA_MF_WildOrchid_5052f880-3d50-4442-82d2-e3c4eebc8159.jpg?v=1678356511&width=360",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_pocket_Soothing_Lavender.jpg?v=1693478355&width=360"
+      },
+      {
+        "name": "Manhattan Glacé",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_Manhattan_grey-background_ca88d6c3-14c5-4e2a-a643-a3e54a64c6d3.jpg?v=1693478387&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/files/0014__CS_7313_73131322.jpg?v=1693478387&width=360"
+      },
+      {
+        "name": "Gentle Paloma",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_Paloma_grey-background_78649944-190c-4c16-940a-e853a7103600.jpg?v=1693478493&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/files/0015__CS_7285_72851321.jpg?v=1693478492&width=360"
+      },
+      {
+        "name": "Blossom Elixir 3 Pack",
+        "price": 15.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/081_1.jpg?v=1651510067&width=360",
+        "hoverImage": "https://haanready.com/cdn/shop/products/081_1.jpg?v=1651510067&width=360"
+      },
+      {
+        "name": "Purifying Verbena",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_Verbena_grey-background_d25fbac4-e0c2-4a03-9cb3-5126a6f8f508.jpg?v=1693478013&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_pocket_Purifying_Verbena.jpg?v=1693478013&width=360"
+      },
+      {
+        "name": "Wood Night",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_WoodNight_grey-background_1b30f122-5917-48fd-82e4-ca7ee61cd31d.jpg?v=1693478548&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/0013__CS_7336_73361324.jpg?v=1693478548&width=360"
+      },
+      {
+        "name": "Refill Pack - Wood Night",
+        "price": 14.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/16.jpg?v=1651509600&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/099.jpg?v=1678813616&width=360"
+      },
+      {
+        "name": "Hand Sanitizer Mojito Splash",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_Mojito_grey-background_49403308-b25b-44f0-8ddd-8810550f8789.jpg?v=1693478516&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/099.jpg?v=1678813616&width=360"
+      }
+    ],
+    "Deodrants": [
+      {
+        "name": "Morning Glory",
+        "price": 7.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_03.jpg?v=1651511042&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_20.jpg?v=1715857371&width=360"
+      },
+      {
+        "name": "Sensitive Tales of Lotus",
+        "price": 7.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_TL_4719e25c-e624-4914-9ffc-42b42063cdca.jpg?v=1657793062&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_15_1.jpg?v=1715857390&width=360"
+      },
+      {
+        "name": "Refill Tales of Lotus",
+        "price": 16.60,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_08_916bda20-ae43-42f9-8c44-d2e8dbb09d4d.jpg?v=1656669377&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_15_1_8c0af5af-a29d-4418-b2ff-4050041e8194.jpg?v=1682515426&width=360"
+      },
+      {
+        "name": "Margarita Spirit",
+        "price": 7.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_01.jpg?v=1651511029&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_12.jpg?v=1715857365&width=360"
+      },
+      {
+        "name": "Sensitive Wild Orchid",
+        "price": 7.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_WO_055bfcc7-f403-4896-9054-8ae723b46cea.jpg?v=1657793108&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_19_8f1f2404-5cdc-4120-9fce-7502c25a8e12.jpg?v=1715857394&width=360"
+      },
+      {
+        "name": "Refill Morning Glory",
+        "price": 16.60,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_09.jpg?v=1651511324&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_20_648149cc-f5a2-4df2-a726-1fb2297f3874.jpg?v=1677665417&width=360"
+      },
+      {
+        "name": "Refill Morning Glory",
+        "price": 13.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_06.jpg?v=1651511072&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_21.jpg?v=1677665076&width=360"
+      },
+      {
+        "name": "Refill Wild Orchid",
+        "price": 16.60,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_09_1c5add1b-255c-47d4-b5e7-f6c5e22cb0e3.jpg?v=1656589070&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_WO_683b95fd-b149-4339-9c93-d60157b33966.jpg?v=1682515440&width=360"
+      },
+      {
+        "name": "Refill Purifying Verbena",
+        "price": 13.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_05.jpg?v=1651511078&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_17_2.jpg?v=1677664984"
+      },
+      {
+        "name": "Refill Margarita Spirit",
+        "price": 16.60,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_07.jpg?v=1651511299&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_12_6f6c2b56-9679-4853-8618-c44dbe158200.jpg?v=1677665433&width=360"
+      },
+      {
+        "name": "Refill Margarita Spirit",
+        "price": 13.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_04.jpg?v=1651511065&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_13.jpg?v=1677665105&width=360"
+      },
+      {
+        "name": "Refill Tales of Lotus",
+        "price": 13.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_TL_REFILL.jpg?v=1656589303&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_acting_TL_refill.jpg?v=1681723126&width=360"
+      },
+      {
+        "name": "Refill Forest Grace",
+        "price": 13.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_FG_REFILL.jpg?v=1656589370&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_15_8e2ea397-9e65-46a9-bf0e-0a05e523b642.jpg?v=1715857384&width=360"
+      },
+      {
+        "name": "Purifying Verbena",
+        "price": 7.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_02_1.jpg?v=1651511053&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_15.jpg?v=1715857375&width=360"
+      },
+      {
+        "name": "Refill Purifying Verbena",
+        "price": 16.60,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_08.jpg?v=1651511312&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_16_52cf7d15-9672-4033-ac01-c7878e874ca9.jpg?v=1677665374&width=360"
+      },
+      {
+        "name": "Forest Grace",
+        "price": 7.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_FG.jpg?v=1657792993&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_15_8e2ea397-9e65-46a9-bf0e-0a05e523b642.jpg?v=1715857384&width=360"
+      },
+      {
+        "name": "Refill Forest Grace",
+        "price": 16.60,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_08_1.jpg?v=1656671488&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_15_32cdfe6b-2ceb-4f44-b37f-36d9ac13231f.jpg?v=1682515411&width=360"
+      },
+      {
+        "name": "Refill Wild Orchid",
+        "price": 13.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_WO_REFILL_1.jpg?v=1656669285&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_acting_WO_refill.jpg?v=1681723139&width=360"
+      },
+      {
+        "name": "Aluminum Free Pack",
+        "price": 18.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/3Botes_Deo.jpg?v=1651511273&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_03_7328c3bb-aa55-4f6a-b173-301bc1815c31.jpg?v=1681998366&width=360"
+      },
+      {
+        "name": "Sensitive Deodorant Pack",
+        "price": 18.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/Deodorant_FAMILY_3bottles_grey_background.jpg?v=1681722119&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_15_f7ca5a88-401a-4ace-819d-8ec4645ee962.jpg?v=1681722119&width=360"
+      }
+    ],
+    "Refills": [
+      {
+        "name": "Refill Wood Night",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/15.jpg?v=1651509718&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/085.jpg?v=1678815096&width=360"
+      },
+      {
+        "name": "Refill Sunset Fleur",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/7.jpg?v=1651509682&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/087.jpg?v=1678815039&width=360"
+      },
+      {
+        "name": "Refill Morning Glory",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/14.jpg?v=1651509705&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/086.jpg?v=1678814915&width=360"
+      },
+      {
+        "name": "Refill Purifying Verbena",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Refill_HZ_BE_PurifyingVerbena.jpg?v=1686050042&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/097_b1d76649-1e06-4321-bc51-e587fc52ef4d.jpg?v=1686050042&width=360"
+      },
+      {
+        "name": "Refill Tranquil Camomile",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Refill_HZ_BE_TranquilCamomile.jpg?v=1686049901&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/096_926eb76d-48c4-46a5-ab1f-78c8ce66f312.jpg?v=1686049901&width=360"
+      },
+      {
+        "name": "Refill Margarita Spirit",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/11_1.jpg?v=1685367095&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/092_1.jpg?v=1685367095&width=360"
+      },
+      {
+        "name": "Refill Spicy Ginger Ale",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/8_519dfdab-24f1-4101-a408-dd57a47096a5.jpg?v=1685367067&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/089_262ba8b5-27c1-49f7-93e6-c366c7e3c478.jpg?v=1685367067&width=360"
+      },
+      {
+        "name": "Refill Citrus Noon",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/13.jpg?v=1651509670&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/088.jpg?v=1678814717&width=360"
+      },
+      {
+        "name": "Refill Tales of Lotus",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/Refill_SA_MF_TalesLotus.jpg?v=1678356485&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/095_b0a6ccb6-a59c-47fb-9298-39556bed295a.jpg?v=1686050013&width=360"
+      },
+      {
+        "name": "Refill Bright Rose",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Refill_HZ_BE_BrightRose.jpg?v=1686050013&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/095_b0a6ccb6-a59c-47fb-9298-39556bed295a.jpg?v=1686050013&width=360"
+      },
+      {
+        "name": "Refill Soothing Lavender",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Refill_HZ_BE_SoothingLavender.jpg?v=1686049980&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/094_b0c1a63d-b356-4a83-80ab-022a01ad69b3.jpg?v=1686049980&width=360"
+      },
+      {
+        "name": "Refill Healing Chrysants",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Refill_HZ_BE_HealingChrysants.jpg?v=1686049945&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/098_8f746343-27af-4509-9324-d0cc815a5906.jpg?v=1686049945&width=360"
+      },
+      {
+        "name": "Refill Forest Grace",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/Refill_SA_MF_ForestGrace.jpg?v=1678356460&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/097_b1d76649-1e06-4321-bc51-e587fc52ef4d.jpg?v=1686050042&width=360"
+      }
+    ],
+    "Bestsellers": [
+      {
+        "name": "Bakuchiol Face Serum",
+        "price": 19.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/01_5.png?v=1675871120&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/02_1_af3a7927-f2d1-427d-9d72-8ef22a8be3a4.jpg?v=1678811685&width=360"
+      },
+      {
+        "name": "Sunscreen SPF 35",
+        "price": 19.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Travel_bottle_SPF30_grey.jpg?v=1693476693&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/files/0003_HAAN-2.jpg?v=1693476693&width=360"
+      },
+      {
+        "name": "Bright Rose",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_brightrose_grey-background.jpg?v=1693478149&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_Bright_Rose.jpg?v=1693478149&width=360"
+      },
+      {
+        "name": "Mouth Spray",
+        "price": 4.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Mouth_Spray_Life_front_grey.jpg?v=1703010992&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/files/1_ModoUso_33e06c98-5f8e-467e-a7f3-52c728545cf1.jpg?v=1707493760&width=360"
+      },
+      {
+        "name": "Hand Cream Coco",
+        "price": 8.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/01_10.jpg?v=1675941436&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/02_17.jpg?v=1677661597&width=360"
+      },
+      {
+        "name": "Lanyard Pack",
+        "price": 8.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/051.jpg?v=1651510170&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/HAAN_MAYO20211485_v3.jpg?v=1678811880&width=360"
+      },
+      {
+        "name": "Refill Soothing Lavender",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Refill_HZ_BE_SoothingLavender.jpg?v=1686049980&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/094_b0c1a63d-b356-4a83-80ab-022a01ad69b3.jpg?v=1686049980&width=360"
+      },
+      {
+        "name": "Face Cream SPF 30",
+        "price": 19.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/SPF30_bottle_FaceCream_grey.jpg?v=1693476294&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/files/DSC05299.jpg?v=1715674588&width=360"
+      },
+      {
+        "name": "Hand Cream",
+        "price": 8.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/01_8.jpg?v=1675941106&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/02_15.jpg?v=1677689142&width=360"
+      },
+      {
+        "name": "Hand Sanitizer",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/Pocket_SA_MF_TalesLotus_1.jpg?v=1678356415&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_Bright_Rose.jpg?v=1693478149&width=360"
+      },
+      {
+        "name": "Refill Bright Rose",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Refill_HZ_BE_BrightRose.jpg?v=1686050013&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/095_b0a6ccb6-a59c-47fb-9298-39556bed295a.jpg?v=1686050013&width=360"
+      },
+      {
+        "name": "Bakuchiol Face Serum",
+        "price": 19.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/01_5.png?v=1675871120&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/02_1_af3a7927-f2d1-427d-9d72-8ef22a8be3a4.jpg?v=1678811685&width=360"
+      },
+      {
+        "name": "Forest Grace",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/Pocket_SA_MF_ForestGrace.jpg?v=1678356444&width=360",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_Bright_Rose.jpg?v=1693478149&width=360"
+      },
+      {
+        "name": "Mouth Spray Pack",
+        "price": 13.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Mouth_Spray_Familia_grey_1.jpg?v=1708096699&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/files/Mouth_Spray_Apple_front_grey_7f552d5a-cb2d-4d5e-8ae6-4ea7eace46ed.jpg?v=1708096699&width=360"
+      },
+      {
+        "name": "Hand Sanitizer Pack",
+        "price": 15.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/083_67640df6-8852-4c7b-9be2-0c356c0a4422.jpg?v=1676287392&width=360",
+        "hoverImage": "https://haanready.com/cdn/shop/files/Mouth_Spray_Apple_front_grey_7f552d5a-cb2d-4d5e-8ae6-4ea7eace46ed.jpg?v=1708096699&width=360"
+      },
+      {
+        "name": "Hand Sanitizer 134",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_SunsetFleur_grey-background_2e07475b-5c6b-4189-ada0-5b81066c9085.jpg?v=1693478521&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/0004__CS_7708_77081330.jpg?v=1693478520&width=360"
+      },
+      {
+        "name": "Daily Moods 3 Pack",
+        "price": 15.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/077.jpg?v=1651509539&width=360",
+        "hoverImage": "https://haanready.com/cdn/shop/products/0004__CS_7708_77081330.jpg?v=1693478520&width=360"
+      },
+      {
+        "name": "Mouth Spray",
+        "price": 4.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Mouth_Spray_Good_front_grey.jpg?v=1703010958&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/files/mouthspray_campaign_lifestyle_519.jpg?v=1707485319&width=360"
+      },
+      {
+        "name": "Hand Sanitizer 3 pack",
+        "price": 15.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/081_1.jpg?v=1651510067&width=360",
+        "hoverImage": "https://haanready.com/cdn/shop/files/mouthspray_campaign_lifestyle_519.jpg?v=1707485319&width=360"
+      },
+      {
+        "name": "Hand Sanitizer 514",
+        "price": 15.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/075.jpg?v=1651509546&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/files/mouthspray_campaign_lifestyle_519.jpg?v=1707485319&width=360"
+      },
+      {
+        "name": "Morning Glory",
+        "price": 7.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_03.jpg?v=1651511042&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_20.jpg?v=1715857371&width=360"
+      },
+      {
+        "name": "Sensitive Tales of Lotus",
+        "price": 7.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_TL_4719e25c-e624-4914-9ffc-42b42063cdca.jpg?v=1657793062&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_15_1.jpg?v=1715857390&width=360"
+      },
+      {
+        "name": "Refill Tales of Lotus",
+        "price": 16.60,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_08_916bda20-ae43-42f9-8c44-d2e8dbb09d4d.jpg?v=1656669377&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_15_1_8c0af5af-a29d-4418-b2ff-4050041e8194.jpg?v=1682515426&width=360"
+      },
+      {
+        "name": "Margarita Spirit",
+        "price": 7.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_01.jpg?v=1651511029&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_12.jpg?v=1715857365&width=360"
+      },
+      {
+        "name": "Sensitive Wild Orchid",
+        "price": 7.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_WO_055bfcc7-f403-4896-9054-8ae723b46cea.jpg?v=1657793108&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_19_8f1f2404-5cdc-4120-9fce-7502c25a8e12.jpg?v=1715857394&width=360"
+      },
+      {
+        "name": "Refill Morning Glory",
+        "price": 16.60,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_09.jpg?v=1651511324&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_20_648149cc-f5a2-4df2-a726-1fb2297f3874.jpg?v=1677665417&width=360"
+      },
+      {
+        "name": "Refill Morning Glory",
+        "price": 13.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_06.jpg?v=1651511072&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_21.jpg?v=1677665076&width=360"
+      },
+      {
+        "name": "Refill Wild Orchid",
+        "price": 16.60,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_09_1c5add1b-255c-47d4-b5e7-f6c5e22cb0e3.jpg?v=1656589070&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_WO_683b95fd-b149-4339-9c93-d60157b33966.jpg?v=1682515440&width=360"
+      },
+      {
+        "name": "Refill Purifying Verbena",
+        "price": 13.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_05.jpg?v=1651511078&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_17_2.jpg?v=1677664984"
+      },
+      {
+        "name": "Refill Margarita Spirit",
+        "price": 16.60,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_07.jpg?v=1651511299&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_12_6f6c2b56-9679-4853-8618-c44dbe158200.jpg?v=1677665433&width=360"
+      }
+    ],
+    "All Products": [
+      {
+        "name": "Morning Glory",
+        "price": 7.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_03.jpg?v=1651511042&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_20.jpg?v=1715857371&width=360"
+      },
+      {
+        "name": "Sensitive Tales of Lotus",
+        "price": 7.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_TL_4719e25c-e624-4914-9ffc-42b42063cdca.jpg?v=1657793062&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_15_1.jpg?v=1715857390&width=360"
+      },
+      {
+        "name": "Refill Tales of Lotus",
+        "price": 16.60,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_08_916bda20-ae43-42f9-8c44-d2e8dbb09d4d.jpg?v=1656669377&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_15_1_8c0af5af-a29d-4418-b2ff-4050041e8194.jpg?v=1682515426&width=360"
+      },
+      {
+        "name": "Margarita Spirit",
+        "price": 7.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_01.jpg?v=1651511029&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_12.jpg?v=1715857365&width=360"
+      },
+      {
+        "name": "Sensitive Wild Orchid",
+        "price": 7.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_WO_055bfcc7-f403-4896-9054-8ae723b46cea.jpg?v=1657793108&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_19_8f1f2404-5cdc-4120-9fce-7502c25a8e12.jpg?v=1715857394&width=360"
+      },
+      {
+        "name": "Refill Morning Glory",
+        "price": 16.60,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_09.jpg?v=1651511324&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_20_648149cc-f5a2-4df2-a726-1fb2297f3874.jpg?v=1677665417&width=360"
+      },
+      {
+        "name": "Refill Morning Glory",
+        "price": 13.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_06.jpg?v=1651511072&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_21.jpg?v=1677665076&width=360"
+      },
+      {
+        "name": "Refill Wild Orchid",
+        "price": 16.60,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_09_1c5add1b-255c-47d4-b5e7-f6c5e22cb0e3.jpg?v=1656589070&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_WO_683b95fd-b149-4339-9c93-d60157b33966.jpg?v=1682515440&width=360"
+      },
+      {
+        "name": "Refill Purifying Verbena",
+        "price": 13.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_05.jpg?v=1651511078&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_17_2.jpg?v=1677664984"
+      },
+      {
+        "name": "Refill Margarita Spirit",
+        "price": 16.60,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_07.jpg?v=1651511299&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_12_6f6c2b56-9679-4853-8618-c44dbe158200.jpg?v=1677665433&width=360"
+      },
+      {
+        "name": "Refill Margarita Spirit",
+        "price": 13.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_04.jpg?v=1651511065&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_13.jpg?v=1677665105&width=360"
+      },
+      {
+        "name": "Refill Tales of Lotus",
+        "price": 13.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_TL_REFILL.jpg?v=1656589303&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_acting_TL_refill.jpg?v=1681723126&width=360"
+      },
+      {
+        "name": "Refill Forest Grace",
+        "price": 13.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_FG_REFILL.jpg?v=1656589370&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_15_8e2ea397-9e65-46a9-bf0e-0a05e523b642.jpg?v=1715857384&width=360"
+      },
+      {
+        "name": "Purifying Verbena",
+        "price": 7.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_02_1.jpg?v=1651511053&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_15.jpg?v=1715857375&width=360"
+      },
+      {
+        "name": "Refill Purifying Verbena",
+        "price": 16.60,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_08.jpg?v=1651511312&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_16_52cf7d15-9672-4033-ac01-c7878e874ca9.jpg?v=1677665374&width=360"
+      },
+      {
+        "name": "Forest Grace",
+        "price": 7.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_FG.jpg?v=1657792993&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_15_8e2ea397-9e65-46a9-bf0e-0a05e523b642.jpg?v=1715857384&width=360"
+      },
+      {
+        "name": "Refill Forest Grace",
+        "price": 16.60,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_08_1.jpg?v=1656671488&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_15_32cdfe6b-2ceb-4f44-b37f-36d9ac13231f.jpg?v=1682515411&width=360"
+      },
+      {
+        "name": "Refill Wild Orchid",
+        "price": 13.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/DEO_WO_REFILL_1.jpg?v=1656669285&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_acting_WO_refill.jpg?v=1681723139&width=360"
+      },
+      {
+        "name": "Aluminum Free Pack",
+        "price": 18.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/3Botes_Deo.jpg?v=1651511273&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_03_7328c3bb-aa55-4f6a-b173-301bc1815c31.jpg?v=1681998366&width=360"
+      },
+      {
+        "name": "Sensitive Deodorant Pack",
+        "price": 18.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/Deodorant_FAMILY_3bottles_grey_background.jpg?v=1681722119&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/DEO_15_f7ca5a88-401a-4ace-819d-8ec4645ee962.jpg?v=1681722119&width=360"
+      },
+      {
+        "name": "Refill Wood Night",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/15.jpg?v=1651509718&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/085.jpg?v=1678815096&width=360"
+      },
+      {
+        "name": "Refill Sunset Fleur",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/7.jpg?v=1651509682&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/087.jpg?v=1678815039&width=360"
+      },
+      {
+        "name": "Refill Morning Glory",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/14.jpg?v=1651509705&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/086.jpg?v=1678814915&width=360"
+      },
+      {
+        "name": "Refill Purifying Verbena",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Refill_HZ_BE_PurifyingVerbena.jpg?v=1686050042&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/097_b1d76649-1e06-4321-bc51-e587fc52ef4d.jpg?v=1686050042&width=360"
+      },
+      {
+        "name": "Refill Tranquil Camomile",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Refill_HZ_BE_TranquilCamomile.jpg?v=1686049901&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/096_926eb76d-48c4-46a5-ab1f-78c8ce66f312.jpg?v=1686049901&width=360"
+      },
+      {
+        "name": "Refill Margarita Spirit",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/11_1.jpg?v=1685367095&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/092_1.jpg?v=1685367095&width=360"
+      },
+      {
+        "name": "Refill Spicy Ginger Ale",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/8_519dfdab-24f1-4101-a408-dd57a47096a5.jpg?v=1685367067&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/089_262ba8b5-27c1-49f7-93e6-c366c7e3c478.jpg?v=1685367067&width=360"
+      },
+      {
+        "name": "Refill Citrus Noon",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/13.jpg?v=1651509670&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/088.jpg?v=1678814717&width=360"
+      },
+      {
+        "name": "Refill Tales of Lotus",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/Refill_SA_MF_TalesLotus.jpg?v=1678356485&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/095_b0a6ccb6-a59c-47fb-9298-39556bed295a.jpg?v=1686050013&width=360"
+      },
+      {
+        "name": "Refill Bright Rose",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Refill_HZ_BE_BrightRose.jpg?v=1686050013&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/095_b0a6ccb6-a59c-47fb-9298-39556bed295a.jpg?v=1686050013&width=360"
+      },
+      {
+        "name": "Refill Soothing Lavender",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Refill_HZ_BE_SoothingLavender.jpg?v=1686049980&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/094_b0c1a63d-b356-4a83-80ab-022a01ad69b3.jpg?v=1686049980&width=360"
+      },
+      {
+        "name": "Refill Healing Chrysants",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Refill_HZ_BE_HealingChrysants.jpg?v=1686049945&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/098_8f746343-27af-4509-9324-d0cc815a5906.jpg?v=1686049945&width=360"
+      },
+      {
+        "name": "Refill Forest Grace",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/Refill_SA_MF_ForestGrace.jpg?v=1678356460&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/097_b1d76649-1e06-4321-bc51-e587fc52ef4d.jpg?v=1686050042&width=360"
+      },
+      {
+        "name": "Bright Rose",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_brightrose_grey-background.jpg?v=1693478149&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_Bright_Rose.jpg?v=1693478149&width=360"
+      },
+      {
+        "name": "Healing Chrysants",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_chrysants_grey-background_bacc0b5a-893c-4609-9814-dbcee95e9c4a.jpg?v=1693478220&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_pocket_Healing_ChrysantsOK.jpg?v=1693478220&width=360"
+      },
+      {
+        "name": "Margarita Spirit",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_Margarita_grey-background.jpg?v=1693478415&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_pocket_Soothing_Lavender.jpg?v=1693478355&width=360"
+      },
+      {
+        "name": "Citrus Noon",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_Citrus_grey-background_c63d83e1-ae48-4c70-84a7-2b7613aa4ba0.jpg?v=1693478250&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/0003__CS_7717_77171333.jpg?v=1693478250&width=360"
+      },
+      {
+        "name": "Dew of Dawn",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_DeyOfDown_grey-background.jpg?v=1693478287&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/0017__CS_7248_72481318.jpg?v=1693478287&width=360"
+      },
+      {
+        "name": "Soothing Lavender",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_Lavanda_grey-background_49f8cd18-6548-4a22-825c-81859d683bea.jpg?v=1693478355&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_pocket_Soothing_Lavender.jpg?v=1693478355&width=360"
+      },
+      {
+        "name": "Morning Glory",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_MorningGlory_grey-background_7da13cdd-a8a8-475b-ab72-a23228c3e257.jpg?v=1693478469&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/0016__CS_7275_72751320.jpg?v=1693478469&width=360"
+      },
+      {
+        "name": "Forest Grace",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/Pocket_SA_MF_ForestGrace.jpg?v=1678356444&width=360",
+        "hoverImage": "https://haanready.com/cdn/shop/products/0017__CS_7248_72481318.jpg?v=1693478287&width=360"
+      },
+      {
+        "name": "Tranquil Camomile",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_Camomille_grey-background_6d6bbf3a-123a-4044-b48e-9bc4374f9c6e.jpg?v=1693478183&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_pocket_Tranquil_Camomile.jpg?v=1693478183&width=360"
+      },
+      {
+        "name": "Tales of Lotus",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/Pocket_SA_MF_TalesLotus_1.jpg?v=1678356415&width=360",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_Bright_Rose.jpg?v=1693478149&width=360"
+      },
+      {
+        "name": "Wild Orchid",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/Pocket_SA_MF_WildOrchid_5052f880-3d50-4442-82d2-e3c4eebc8159.jpg?v=1678356511&width=360",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_pocket_Soothing_Lavender.jpg?v=1693478355&width=360"
+      },
+      {
+        "name": "Manhattan Glacé",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_Manhattan_grey-background_ca88d6c3-14c5-4e2a-a643-a3e54a64c6d3.jpg?v=1693478387&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/files/0014__CS_7313_73131322.jpg?v=1693478387&width=360"
+      },
+      {
+        "name": "Gentle Paloma",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_Paloma_grey-background_78649944-190c-4c16-940a-e853a7103600.jpg?v=1693478493&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/files/0015__CS_7285_72851321.jpg?v=1693478492&width=360"
+      },
+      {
+        "name": "Blossom Elixir 3 Pack",
+        "price": 15.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/081_1.jpg?v=1651510067&width=360",
+        "hoverImage": "https://haanready.com/cdn/shop/products/081_1.jpg?v=1651510067&width=360"
+      },
+      {
+        "name": "Purifying Verbena",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_Verbena_grey-background_d25fbac4-e0c2-4a03-9cb3-5126a6f8f508.jpg?v=1693478013&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_pocket_Purifying_Verbena.jpg?v=1693478013&width=360"
+      },
+      {
+        "name": "Wood Night",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_WoodNight_grey-background_1b30f122-5917-48fd-82e4-ca7ee61cd31d.jpg?v=1693478548&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/0013__CS_7336_73361324.jpg?v=1693478548&width=360"
+      },
+      {
+        "name": "Refill Pack - Wood Night",
+        "price": 14.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/16.jpg?v=1651509600&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/099.jpg?v=1678813616&width=360"
+      },
+      {
+        "name": "Hand Sanitizer Mojito Splash",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_Mojito_grey-background_49403308-b25b-44f0-8ddd-8810550f8789.jpg?v=1693478516&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/099.jpg?v=1678813616&width=360"
+      },
+      {
+        "name": "Bakuchiol Face Serum",
+        "price": 19.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/01_5.png?v=1675871120&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/02_1_af3a7927-f2d1-427d-9d72-8ef22a8be3a4.jpg?v=1678811685&width=360"
+      },
+      {
+        "name": "Sunscreen SPF 35",
+        "price": 19.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Travel_bottle_SPF30_grey.jpg?v=1693476693&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/files/0003_HAAN-2.jpg?v=1693476693&width=360"
+      },
+      {
+        "name": "Bright Rose",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_brightrose_grey-background.jpg?v=1693478149&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_Bright_Rose.jpg?v=1693478149&width=360"
+      },
+      {
+        "name": "Mouth Spray",
+        "price": 4.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Mouth_Spray_Life_front_grey.jpg?v=1703010992&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/files/1_ModoUso_33e06c98-5f8e-467e-a7f3-52c728545cf1.jpg?v=1707493760&width=360"
+      },
+      {
+        "name": "Hand Cream Coco",
+        "price": 8.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/01_10.jpg?v=1675941436&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/02_17.jpg?v=1677661597&width=360"
+      },
+      {
+        "name": "Lanyard Pack",
+        "price": 8.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/051.jpg?v=1651510170&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/HAAN_MAYO20211485_v3.jpg?v=1678811880&width=360"
+      },
+      {
+        "name": "Refill Soothing Lavender",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Refill_HZ_BE_SoothingLavender.jpg?v=1686049980&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/094_b0c1a63d-b356-4a83-80ab-022a01ad69b3.jpg?v=1686049980&width=360"
+      },
+      {
+        "name": "Face Cream SPF 30",
+        "price": 19.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/SPF30_bottle_FaceCream_grey.jpg?v=1693476294&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/files/DSC05299.jpg?v=1715674588&width=360"
+      },
+      {
+        "name": "Hand Cream",
+        "price": 8.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/01_8.jpg?v=1675941106&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/02_15.jpg?v=1677689142&width=360"
+      },
+      {
+        "name": "Hand Sanitizer",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/Pocket_SA_MF_TalesLotus_1.jpg?v=1678356415&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_Bright_Rose.jpg?v=1693478149&width=360"
+      },
+      {
+        "name": "Refill Bright Rose",
+        "price": 9.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Refill_HZ_BE_BrightRose.jpg?v=1686050013&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/095_b0a6ccb6-a59c-47fb-9298-39556bed295a.jpg?v=1686050013&width=360"
+      },
+      {
+        "name": "Bakuchiol Face Serum",
+        "price": 19.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/01_5.png?v=1675871120&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/02_1_af3a7927-f2d1-427d-9d72-8ef22a8be3a4.jpg?v=1678811685&width=360"
+      },
+      {
+        "name": "Forest Grace",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/Pocket_SA_MF_ForestGrace.jpg?v=1678356444&width=360",
+        "hoverImage": "https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_Bright_Rose.jpg?v=1693478149&width=360"
+      },
+      {
+        "name": "Mouth Spray Pack",
+        "price": 13.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Mouth_Spray_Familia_grey_1.jpg?v=1708096699&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/files/Mouth_Spray_Apple_front_grey_7f552d5a-cb2d-4d5e-8ae6-4ea7eace46ed.jpg?v=1708096699&width=360"
+      },
+      {
+        "name": "Hand Sanitizer Pack",
+        "price": 15.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/083_67640df6-8852-4c7b-9be2-0c356c0a4422.jpg?v=1676287392&width=360",
+        "hoverImage": "https://haanready.com/cdn/shop/files/Mouth_Spray_Apple_front_grey_7f552d5a-cb2d-4d5e-8ae6-4ea7eace46ed.jpg?v=1708096699&width=360"
+      },
+      {
+        "name": "Hand Sanitizer 134",
+        "price": 5.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/sanitizer_bottle_SunsetFleur_grey-background_2e07475b-5c6b-4189-ada0-5b81066c9085.jpg?v=1693478521&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/products/0004__CS_7708_77081330.jpg?v=1693478520&width=360"
+      },
+      {
+        "name": "Daily Moods 3 Pack",
+        "price": 15.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/077.jpg?v=1651509539&width=360",
+        "hoverImage": "https://haanready.com/cdn/shop/products/0004__CS_7708_77081330.jpg?v=1693478520&width=360"
+      },
+      {
+        "name": "Mouth Spray",
+        "price": 4.90,
+        "primaryImage": "https://haanready.com/cdn/shop/files/Mouth_Spray_Good_front_grey.jpg?v=1703010958&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/files/mouthspray_campaign_lifestyle_519.jpg?v=1707485319&width=360"
+      },
+      {
+        "name": "Hand Sanitizer 3 pack",
+        "price": 15.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/081_1.jpg?v=1651510067&width=360",
+        "hoverImage": "https://haanready.com/cdn/shop/files/mouthspray_campaign_lifestyle_519.jpg?v=1707485319&width=360"
+      },
+      {
+        "name": "Hand Sanitizer 514",
+        "price": 15.90,
+        "primaryImage": "https://haanready.com/cdn/shop/products/075.jpg?v=1651509546&width=823",
+        "hoverImage": "https://haanready.com/cdn/shop/files/mouthspray_campaign_lifestyle_519.jpg?v=1707485319&width=360"
+      }
+    ],
+    "carts":[
+      {
+        "userId": 1,
+        "items": [
+          {
+            "productId": "product-id",
+            "quantity": 1
+          }
+        ]
+      }
+    ]
+  }
